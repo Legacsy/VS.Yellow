@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Yellow.png"><SubTexture name="Yellow downNOTE0000" x="0" y="0" width="389" height="483" frameX="0" frameY="0" frameWidth="389" frameHeight="483" />
+<SubTexture name="Yellow downNOTE0001" x="389" y="0" width="389" height="483" frameX="0" frameY="0" frameWidth="389" frameHeight="483" />
+<SubTexture name="Yellow gunSHOT0000" x="778" y="0" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow gunSHOT0001" x="1760" y="0" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow gunSHOT0002" x="2742" y="0" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow gunSHOT0003" x="0" y="483" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow gunSHOT0004" x="982" y="483" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow gunSHOT0005" x="1964" y="483" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow gunSHOT0006" x="2946" y="483" width="982" height="471" frameX="0" frameY="0" frameWidth="982" frameHeight="471" />
+<SubTexture name="Yellow IDLE0000" x="3928" y="483" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0001" x="0" y="1014" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0002" x="507" y="1014" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0003" x="1014" y="1014" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0004" x="1521" y="1014" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0005" x="2028" y="1014" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0006" x="0" y="1545" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0007" x="507" y="1545" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0008" x="1014" y="1545" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0009" x="1521" y="1545" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0010" x="2028" y="1545" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0011" x="0" y="2076" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0012" x="0" y="2076" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0013" x="0" y="2076" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0014" x="0" y="2076" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+<SubTexture name="Yellow IDLE0015" x="0" y="2076" width="507" height="531" frameX="0" frameY="0" frameWidth="507" frameHeight="531" />
+
+<SubTexture name="Yellow leftNOTE0000" x="507" y="2076" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow leftNOTE0001" x="1129" y="2076" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow leftNOTE0002" x="1751" y="2076" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow leftNOTE0003" x="2373" y="2076" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow leftNOTE0004" x="0" y="2607" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow leftNOTE0005" x="622" y="2607" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow leftNOTE0006" x="1244" y="2607" width="622" height="504" frameX="0" frameY="0" frameWidth="622" frameHeight="504" />
+<SubTexture name="Yellow rightNOTE0000" x="1866" y="2607" width="506" height="501" frameX="0" frameY="0" frameWidth="506" frameHeight="501" />
+<SubTexture name="Yellow rightNOTE0001" x="2372" y="2607" width="506" height="501" frameX="0" frameY="0" frameWidth="506" frameHeight="501" />
+<SubTexture name="Yellow rightNOTE0002" x="0" y="3111" width="506" height="501" frameX="0" frameY="0" frameWidth="506" frameHeight="501" />
+<SubTexture name="Yellow rightNOTE0003" x="506" y="3111" width="506" height="501" frameX="0" frameY="0" frameWidth="506" frameHeight="501" />
+<SubTexture name="Yellow upNOTE0000" x="1012" y="3111" width="340" height="590" frameX="0" frameY="0" frameWidth="340" frameHeight="590" />
+<SubTexture name="Yellow upNOTE0001" x="1352" y="3111" width="340" height="590" frameX="0" frameY="0" frameWidth="340" frameHeight="590" />
+</TextureAtlas>

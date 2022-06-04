@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Nickless IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Nickless leftNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-134
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Nickless downNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				49
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Nickless upNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-132,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Nickless rightNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-10
+			],
+			"anim": "attackDOWN",
+			"fps": 20,
+			"name": "Nickless attackDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-9
+			],
+			"anim": "attackUP",
+			"fps": 20,
+			"name": "Nickless attackUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nickless",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		30,
+		60
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Nickdit IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				43
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Nickdit leftNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				101
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Nickdit upNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				49
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Nickdit downNOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 48,
+			"name": "Nickdit rightNOTE",
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nickdit",
+	"position": [
+		55,
+		305
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

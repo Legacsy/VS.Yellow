@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nickless.png"><SubTexture name="Nickless attackDOWN0000" x="0" y="0" width="632" height="532" frameX="0" frameY="0" frameWidth="632" frameHeight="532" />
+<SubTexture name="Nickless attackDOWN0001" x="632" y="0" width="632" height="532" frameX="0" frameY="0" frameWidth="632" frameHeight="532" />
+<SubTexture name="Nickless attackDOWN0002" x="1264" y="0" width="632" height="532" frameX="0" frameY="0" frameWidth="632" frameHeight="532" />
+<SubTexture name="Nickless attackDOWN0003" x="1896" y="0" width="632" height="532" frameX="0" frameY="0" frameWidth="632" frameHeight="532" />
+<SubTexture name="Nickless attackDOWN0004" x="0" y="532" width="632" height="532" frameX="0" frameY="0" frameWidth="632" frameHeight="532" />
+<SubTexture name="Nickless attackUP0000" x="632" y="532" width="647" height="532" frameX="0" frameY="0" frameWidth="647" frameHeight="532" />
+<SubTexture name="Nickless attackUP0001" x="1279" y="532" width="647" height="532" frameX="0" frameY="0" frameWidth="647" frameHeight="532" />
+<SubTexture name="Nickless attackUP0002" x="1926" y="532" width="647" height="532" frameX="0" frameY="0" frameWidth="647" frameHeight="532" />
+<SubTexture name="Nickless attackUP0003" x="0" y="1064" width="647" height="532" frameX="0" frameY="0" frameWidth="647" frameHeight="532" />
+<SubTexture name="Nickless attackUP0004" x="647" y="1064" width="647" height="532" frameX="0" frameY="0" frameWidth="647" frameHeight="532" />
+<SubTexture name="Nickless downNOTE0000" x="1294" y="1064" width="418" height="400" frameX="0" frameY="0" frameWidth="418" frameHeight="400" />
+<SubTexture name="Nickless downNOTE0001" x="1712" y="1064" width="418" height="400" frameX="0" frameY="0" frameWidth="418" frameHeight="400" />
+<SubTexture name="Nickless IDLE0000" x="0" y="1596" width="485" height="540" frameX="0" frameY="0" frameWidth="485" frameHeight="540" />
+<SubTexture name="Nickless IDLE0001" x="485" y="1596" width="485" height="540" frameX="0" frameY="0" frameWidth="485" frameHeight="540" />
+<SubTexture name="Nickless IDLE0002" x="970" y="1596" width="485" height="540" frameX="0" frameY="0" frameWidth="485" frameHeight="540" />
+<SubTexture name="Nickless IDLE0003" x="1455" y="1596" width="485" height="540" frameX="0" frameY="0" frameWidth="485" frameHeight="540" />
+<SubTexture name="Nickless IDLE0004" x="0" y="2136" width="485" height="540" frameX="0" frameY="0" frameWidth="485" frameHeight="540" />
+<SubTexture name="Nickless IDLE0005" x="485" y="2136" width="485" height="540" frameX="0" frameY="0" frameWidth="485" frameHeight="540" />
+<SubTexture name="Nickless leftNOTE0000" x="970" y="2136" width="473" height="538" frameX="0" frameY="0" frameWidth="473" frameHeight="538" />
+<SubTexture name="Nickless leftNOTE0001" x="1443" y="2136" width="473" height="538" frameX="0" frameY="0" frameWidth="473" frameHeight="538" />
+<SubTexture name="Nickless rightNOTE0000" x="0" y="2676" width="501" height="524" frameX="0" frameY="0" frameWidth="501" frameHeight="524" />
+<SubTexture name="Nickless rightNOTE0001" x="501" y="2676" width="501" height="524" frameX="0" frameY="0" frameWidth="501" frameHeight="524" />
+<SubTexture name="Nickless upNOTE0000" x="1002" y="2676" width="527" height="582" frameX="0" frameY="0" frameWidth="527" frameHeight="582" />
+<SubTexture name="Nickless upNOTE0001" x="1529" y="2676" width="527" height="582" frameX="0" frameY="0" frameWidth="527" frameHeight="582" />
+</TextureAtlas>

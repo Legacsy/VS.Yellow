@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BF IDLE",
+	"image": "BF-grunt",
+	"position": [
+		170,
+		10
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": "BF leftNOTE"
+}

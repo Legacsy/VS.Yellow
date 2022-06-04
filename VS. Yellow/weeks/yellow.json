@@ -1,0 +1,32 @@
+{
+	"storyName": "yellow is yellow",
+	"difficulties": "Easy, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "wasteland",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"yellow",
+		"",
+		"BF-grunt"
+	],
+	"songs": [
+		[
+			"amarillo",
+			"yellowmenu",
+			[
+				255,
+				255,
+				155
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "yellow",
+	"hiddenUntilUnlocked": false
+}

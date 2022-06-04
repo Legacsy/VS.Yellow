@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nickdit.png"><SubTexture name="Nickdit downNOTE0000" x="0" y="0" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0001" x="444" y="0" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0002" x="888" y="0" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0003" x="1332" y="0" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0004" x="1776" y="0" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0005" x="0" y="525" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0006" x="444" y="525" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0007" x="888" y="525" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit downNOTE0008" x="1332" y="525" width="444" height="525" frameX="0" frameY="0" frameWidth="444" frameHeight="525" />
+<SubTexture name="Nickdit IDLE0000" x="1776" y="525" width="461" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="475" />
+<SubTexture name="Nickdit IDLE0001" x="0" y="1050" width="461" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="475" />
+<SubTexture name="Nickdit IDLE0002" x="461" y="1050" width="461" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="475" />
+<SubTexture name="Nickdit IDLE0003" x="922" y="1050" width="461" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="475" />
+<SubTexture name="Nickdit IDLE0004" x="1383" y="1050" width="461" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="475" />
+<SubTexture name="Nickdit IDLE0005" x="1844" y="1050" width="461" height="475" frameX="0" frameY="0" frameWidth="461" frameHeight="475" />
+<SubTexture name="Nickdit leftNOTE0000" x="0" y="1525" width="542" height="507" frameX="0" frameY="0" frameWidth="542" frameHeight="507" />
+<SubTexture name="Nickdit leftNOTE0001" x="542" y="1525" width="542" height="507" frameX="0" frameY="0" frameWidth="542" frameHeight="507" />
+<SubTexture name="Nickdit rightNOTE0000" x="1084" y="1525" width="643" height="454" frameX="0" frameY="0" frameWidth="643" frameHeight="454" />
+<SubTexture name="Nickdit rightNOTE0001" x="1727" y="1525" width="643" height="454" frameX="0" frameY="0" frameWidth="643" frameHeight="454" />
+<SubTexture name="Nickdit rightNOTE0002" x="2370" y="1525" width="643" height="454" frameX="0" frameY="0" frameWidth="643" frameHeight="454" />
+<SubTexture name="Nickdit rightNOTE0003" x="0" y="2032" width="643" height="454" frameX="0" frameY="0" frameWidth="643" frameHeight="454" />
+<SubTexture name="Nickdit rightNOTE0004" x="643" y="2032" width="643" height="454" frameX="0" frameY="0" frameWidth="643" frameHeight="454" />
+<SubTexture name="Nickdit rightNOTE0005" x="1286" y="2032" width="643" height="454" frameX="0" frameY="0" frameWidth="643" frameHeight="454" />
+<SubTexture name="Nickdit upNOTE0000" x="1929" y="2032" width="388" height="572" frameX="0" frameY="0" frameWidth="388" frameHeight="572" />
+<SubTexture name="Nickdit upNOTE0001" x="2317" y="2032" width="388" height="572" frameX="0" frameY="0" frameWidth="388" frameHeight="572" />
+</TextureAtlas>

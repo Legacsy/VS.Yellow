@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yellow IDLE"
+		},
+		{
+			"offsets": [
+				276,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yellow leftNOTE"
+		},
+		{
+			"offsets": [
+				-16,
+				62
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yellow upNOTE"
+		},
+		{
+			"offsets": [
+				-57,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yellow rightNOTE"
+		},
+		{
+			"offsets": [
+				28,
+				-53
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yellow downNOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-60
+			],
+			"anim": "gunshot",
+			"fps": 24,
+			"name": "Yellow gunSHOT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5,
+				5
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yellow",
+	"position": [
+		60,
+		230
+	],
+	"healthicon": "yellow",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		181
+	],
+	"camera_position": [
+		100,
+		90
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
